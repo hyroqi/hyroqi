@@ -4,7 +4,7 @@
 
 ![Hyroqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroqi&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroqi)](https://github.com/hyroqi/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroqi&theme=dark)](https://github.com/hyroqi/github-readme-stats&theme=dark)
 
 
 <!--
