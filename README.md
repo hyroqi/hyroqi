@@ -1,6 +1,14 @@
-### Yooo what's up 👋
+Yooo what's up 👋
 
-I'm Hiroki, currently a 42 
+### I'm Hiroki, currently a 42kl student and a part time streamer / keyboard modder !
+### I use this github to upload my 42 cursus stuff and some of my personal projects
+### If you have any questions feel free to reach out to me on my discord :D hyroqi#2900
+
+
+
+
+
+
 ---
 ![hyroqi's 42 stats](https://badge42.vercel.app/api/v2/cl3lep6zi005409mrbpgpjpdg/stats?cursusId=21&coalitionId=147)
 
