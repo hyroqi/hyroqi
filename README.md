@@ -1,7 +1,10 @@
-### Ayo whats up 👋
+### Yooo what's up 👋
 
 ![hyroqi's 42 stats](https://badge42.vercel.app/api/v2/cl3lep6zi005409mrbpgpjpdg/stats?cursusId=21&coalitionId=147)
 
+
+(![Hyroqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroqi&show_icons=true&theme=radical)
+)
 <!--
 **hyroqi/hyroqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
