@@ -1,10 +1,12 @@
 ### Yooo what's up 👋
 
+I'm Hiroki, currently a 42 
+---
 ![hyroqi's 42 stats](https://badge42.vercel.app/api/v2/cl3lep6zi005409mrbpgpjpdg/stats?cursusId=21&coalitionId=147)
 
 ![Hyroqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroqi&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroqi&theme=dark)](https://github.com/hyroqi/github-readme-stats&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroqi&theme=dark)
 
 
 <!--
