@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ayo whats up 👋
+
+![hyroqi's 42 stats](https://badge42.vercel.app/api/v2/cl3lep6zi005409mrbpgpjpdg/stats?cursusId=21&coalitionId=147)
 
 <!--
 **hyroqi/hyroqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
