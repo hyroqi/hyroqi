@@ -5,7 +5,7 @@ I use this github to upload my 42 cursus stuff and some of my personal projects 
 If you have any questions feel free to reach out to me on my discord :D hyroqi#2900 <br />
 
 > 🔭 I’m currently learning     : C, Java, HTML5, Css, React and VueJs <br />
-> ⚡ My passions include        : Gaming, Programming, Music and Chess <br />
+> ⚡ My passions include        : Linux, Gaming, Programming, Music and Chess <br />
 > 🤔 I’m looking for help with  : React, VueJs <br />
 > 💬 Let's chat about           : Anything, really :D 
 ---
