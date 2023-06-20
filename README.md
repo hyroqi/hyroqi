@@ -4,9 +4,9 @@ I'm Hiroki, currently a part time streamer / keyboard modder ! <br />
 I use this github to upload my cursus stuff and some of my personal projects <br />
 If you have any questions feel free to reach out to me on my discord :D hyroqi#2900 <br />
 
-> 🔭 I’m currently learning     : C, Java, HTML5, Css, React and VueJs <br />
+> 🔭 I’m currently learning     : C, SQL, Mongo, Kubernetes, Docker <br />
 > ⚡ My passions include        : Linux, Gaming, Programming, Music and Chess <br />
-> 🤔 I’m looking for help with  : React, VueJs <br />
+> 🤔 I’m looking for help with  : Kubernetes, Docker, Cooking <br />
 > 💬 Let's chat about           : Anything, really :D 
 ---
 
