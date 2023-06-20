@@ -1,6 +1,7 @@
 ### **Yooo what's up 👋**
 
 I'm Hiroki, currently a part time streamer / keyboard modder ! <br />
+Not really active anymore due to my job but i still do study abit here n there :D<br />
 I use this github to upload my cursus stuff and some of my personal projects <br />
 If you have any questions feel free to reach out to me on my discord :D hyroqi#2900 <br />
 
