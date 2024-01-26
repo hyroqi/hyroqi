@@ -5,10 +5,8 @@ Not really active anymore due to my job but i still do study abit here n there :
 I use this github to upload my cursus stuff and some of my personal projects <br />
 If you have any questions feel free to reach out to me on my discord :D hyroqi#2900 <br />
 
-> 🔭 I’m currently learning     : C, SQL, Mongo, Kubernetes, Docker <br />
-> ⚡ My passions include        : Linux, Gaming, Programming, Music and Chess <br />
-> 🤔 I’m looking for help with  : Kubernetes, Docker, Cooking <br />
-> 💬 Let's chat about           : Anything, really :D 
+> 🔭 I’m currently learning     : Godot <br />
+> ⚡ My passions include        : Gaming, Programming, Music and Chess <br />
 ---
 
 ![Hyroqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroqi&show_icons=true&theme=dark)
