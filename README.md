@@ -8,13 +8,6 @@ If you have any questions feel free to reach out to me on my discord :D hyroqi#2
 > 🔭 I’m currently learning     : Godot <br />
 > ⚡ My passions include        : Gaming, Programming, Music and Chess <br />
 ---
-
-![Hyroqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyroqi&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroqi&theme=dark)
-
-
 <!--
 **hyroqi/hyroqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
