@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Sunway University**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord!: @Hylorial</h3>
 <p align="left">
 </p>
 
