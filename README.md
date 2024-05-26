@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hiroki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-<h3 align="center">A passionate DevOps Engineer from Malaysia <iframe src="https://giphy.com/embed/MxYQrB9jeGzza" width="480" height="473" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparency-overlay-ffmpeg-MxYQrB9jeGzza">via GIPHY</a></p>
+<h3 align="center">A passionate DevOps Engineer from Malaysia <img src="https://i.sstatic.net/e8nZC.gif" width="35" height="40"</p>
 </h3>
 
 # 💫 About Me:
