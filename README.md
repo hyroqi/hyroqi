@@ -3,7 +3,7 @@
 </h3>
 
 # 💫 About Me:
-🔭 I’m currently working for Alpha Red Solutions<br>🌱 I’m currently learning Angular, Nest, Drizzle/kit
+🔭 I’m currently doing freelance work, and making apps that improve my own qol - see shoppinglist <br>🌱 I’m currently learning Angular, Nest, Drizzle/kit
 
 
 ## 🌐 Socials:
