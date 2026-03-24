@@ -66,7 +66,6 @@ I focus on **shipping fast, production-ready features** — not just writing cod
 ## 🔗 Links
 
 - LinkedIn: https://linkedin.com/in/hirokigabriel  
-- GitHub: https://github.com/hyroqi  
 
 ---
 
